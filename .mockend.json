@@ -1,28 +1,28 @@
 {
   "Usesr": {
     
-    "tipo": {
+    tipo: {
      "int": {
         "min": 1,
         "max": 2
       }
     },
-    "valor": {
+    valor: {
      "regexp": "[0-9]{13}"
     },
-    "width": {
+    width: {
       "int": {
         "min": 50,
         "max": 100
       }
     },
-    "height": {
+    height: {
        "int": {
         "min": 21,
         "max": 50
       }
     },
-    "align": {
+    align: {
       "int": {
         "min": 0,
         "max": 1
